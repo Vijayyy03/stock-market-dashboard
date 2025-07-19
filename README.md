@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Stock Market Dashboard
 
 A full-stack stock market dashboard application built with FastAPI (Python), ReactJS, and SQLite. The app allows users to browse companies, view historical stock price charts, and see key analytics like 52-week high/low and average volume.
@@ -63,3 +64,6 @@ _Add your screenshots here_
 
 ## License
 MIT 
+=======
+# stock-market-dashboard
+>>>>>>> ae6e661292b319a749d1c245f05d966afe72f242
